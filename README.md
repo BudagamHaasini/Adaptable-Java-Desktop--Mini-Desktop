@@ -37,7 +37,7 @@ Adaptable-Java-Desktop--Mini-Desktop/
 ├── README.md                        # Project documentation
 ├── LICENSE                          # MIT License
 └── .gitignore                       # Ignored files
------
+---
 
 
 ## 🚀 How to Run the Project
