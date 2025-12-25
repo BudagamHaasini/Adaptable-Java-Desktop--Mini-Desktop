@@ -37,8 +37,9 @@ Adaptable-Java-Desktop--Mini-Desktop/
 ├── README.md                        # Project documentation
 ├── LICENSE                          # MIT License
 └── .gitignore                       # Ignored files
+---
 
-
+### 🚀 How to Run the Project 
 ```md
 ## 🚀 How to Run the Project
 ### Prerequisites
@@ -57,7 +58,9 @@ javac DraggableResizableDesktop.java
 **Run the program:**
 ```bash
 java DraggableResizableDesktop
-----
+---
+## 📸 **Screenshots**
+```md
 ## 📸 **Screenshots**
 ### Enter Password
 ![Enter Password](images/enter.png)
@@ -68,7 +71,7 @@ java DraggableResizableDesktop
 ### Main Desktop
 ![Main Desktop](images/desktop.png)
 
-----
+---
 
 ## 🏫Real-World Applications
 - **Schools:** Restricted desktops for children in computer labs  
