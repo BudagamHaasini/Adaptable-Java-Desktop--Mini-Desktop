@@ -48,14 +48,15 @@ Adaptable-Java-Desktop--Mini-Desktop/
 **Clone the repository:**
 ```bash
 git clone https://github.com/BudagamHaasini/Adaptable-Java-Desktop--Mini-Desktop.git
-
+```
 **Compile the code:**
 ```bash
 javac DraggableResizableDesktop.java
-
+```
 **Run the program:**
 ```bash
 java DraggableResizableDesktop
+```
 ---
 
 ## 📸 **Screenshots**
