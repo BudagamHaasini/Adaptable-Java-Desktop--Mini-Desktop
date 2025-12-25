@@ -39,8 +39,6 @@ Adaptable-Java-Desktop--Mini-Desktop/
 └── .gitignore                       # Ignored files
 ---
 
-### 🚀 How to Run the Project 
-```md
 ## 🚀 How to Run the Project
 ### Prerequisites
 - Java JDK 17 or above
@@ -59,8 +57,7 @@ javac DraggableResizableDesktop.java
 ```bash
 java DraggableResizableDesktop
 ---
-## 📸 **Screenshots**
-```md
+
 ## 📸 **Screenshots**
 ### Enter Password
 ![Enter Password](images/enter.png)
