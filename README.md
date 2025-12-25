@@ -37,9 +37,9 @@ Adaptable-Java-Desktop--Mini-Desktop/
 ├── README.md                        # Project documentation
 ├── LICENSE                          # MIT License
 └── .gitignore                       # Ignored files
----
 
 
+```md
 ## 🚀 How to Run the Project
 ### Prerequisites
 - Java JDK 17 or above
@@ -70,7 +70,7 @@ java DraggableResizableDesktop
 
 ----
 
-##🏫Real-World Applications
+## 🏫Real-World Applications
 - **Schools:** Restricted desktops for children in computer labs  
 - **Libraries:** Safe public systems with controlled access  
 - **Homes:** Parental supervision and screen-time management  
